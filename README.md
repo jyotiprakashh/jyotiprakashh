@@ -7,9 +7,10 @@
 
 - 👨‍💻 I'm some sort of a full-stack developer?
 - 🌱 I work a lot with Go and Javascript!
-- 🎮 I like music and I play instruments in my college music band!
+- 📟 I love to participate in programming contests on different platforms.
+- 🎹 I like music and I play instruments in my college music band!
 - 👯‍♀️ I like to discuss coding with others and learn more.
-- 📫 I do not write blog posts and my Twitter is mostly used when I'm bored or waiting for something.
+- 📫 I post things on twitter and then vanishes.
 - ❓ Want to know more about me? You can always contact me via several social media!
 - 📫 How to reach me **jppanda12345@gmail.com**
 
